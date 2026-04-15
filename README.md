@@ -25,3 +25,20 @@ This project implements a complete DevOps workflow:
 ---
 
 ## 📂 Project Structure
+├── index.js
+├── app.js
+├── package.json
+├── Dockerfile
+├── .github/workflows/docker-publish.yml
+└── README.md
+
+---
+
+
+## 🌐 API Endpoints
+
+| Route   | Response |
+|--------|---------|
+| `/`     | Hello From DSCE |
+| `/will` | Hello World |
+| `/ready`| Great!, It works! |
